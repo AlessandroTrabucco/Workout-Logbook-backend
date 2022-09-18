@@ -1,4 +1,4 @@
-#Workout Logbook
+##Workout Logbook
 
 Express JS application, backend of my workout logbook flutter project that you can access here https://github.com/AlessandroTrabucco/Workout-Logbook-frontend.
 
