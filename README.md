@@ -7,4 +7,3 @@ This application authenticates a client verifying Google Id Token, and then crea
 
 This app uses googleapis package to verify Google Id Token.
 
-This frontend application sends requests to a rest API developed in Node.js that you can access here.
